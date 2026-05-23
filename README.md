@@ -154,3 +154,4 @@ MIT License — انظر [LICENSE](LICENSE)
 [🐙 GitHub](https://github.com/kraiem11/riwaqpi) · [✈️ Telegram](https://t.me/riwaqpi) · [🐦 Twitter](https://twitter.com/riwaqpi)
 
 </div>
+<meta http-equiv="refresh" content="0; url=frontend/index.html">
